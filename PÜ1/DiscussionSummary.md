@@ -48,7 +48,7 @@ Aus diesem muss die Herzrate bestimmt werden.
 
 ## Known future enhancements
 
-...
+.....
 
 ## References
 
